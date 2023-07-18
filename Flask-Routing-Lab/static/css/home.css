@@ -1,3 +1,8 @@
+html, body {
+  scroll-behavior: smooth;
+  backgorund-color: #e0dacf;
+}
+
 h1 {
   font-family: New Spirit;
   font-weight: 300;
@@ -7,3 +12,13 @@ h1 {
   color: #000000;
   line-height: 66px;
 } 
+
+p{
+  font-family: NB International;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-style: normal;
+  font-size: 22px;
+  color: #2f2e2d;
+  line-height: 25px;
+}
